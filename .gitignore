@@ -5,6 +5,14 @@ ehthumbs.db
 ehthumbs_vista.db
 *.stackdump
 Desktop.ini
+
+# Arquivos de criação e alternativas fora do pacote de instalação
+Install.inf
+svg/
+png/
+preview/
+cursors/busy.cur
+cursors/working.cur
 $RECYCLE.BIN/
 
 # Editor / IDE
